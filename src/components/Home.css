@@ -1,0 +1,26 @@
+.Home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.Home p {
+    text-align: center;
+}
+
+.Home form {
+    margin-bottom: 10px;
+}
+
+#player-line {
+    margin: 8px;
+    display: flex;
+    align-items: center;
+}
+
+.delete-player {
+    margin-left: 10px;
+}
+
